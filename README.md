@@ -2,8 +2,6 @@
 
 A fullstack booking platform for travel experiences — browse, select slots, apply promos, and book!
 
-![Demo](https://drive.google.com/file/d/1CjrBL2u-o0lwzFSKVBXBhCxygYZP8A8y/view?usp=sharing) 
-
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, TypeScript, Vite, TailwindCSS, React Router
